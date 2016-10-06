@@ -8,3 +8,7 @@ spring:
         git:
           uri: https://github.com/lkanthrao/ConfigData1
           search-paths: ConfigData1
+          
+
+  application:
+    name: springclouldconfigserver
